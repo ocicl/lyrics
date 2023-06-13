@@ -1,0 +1,10 @@
+* lyrics
+
+A Common Lisp library for searching and storing song lyrics
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mihaiolteanu/lyrics.git   |
+| commit  | ec82edd  |
+| systems | lyrics |
+|---------+-------------------------------------------|
+
